@@ -66,6 +66,10 @@ h1, h2, h3, h4, h5, h6 {
     
       <h4>Belgian Waffle</h4>
       <p class="w3-text-grey">Vanilla flavored batter with malted flour 7.50</p><br>
+      
+      <h4>French Toast</h4>
+      <p class="w3-text-grey">Cinnamon,served with cream+ice-cream 7.50</p><br>
+      
     
       <h4>Scrambled eggs</h4>
       <p class="w3-text-grey">Scrambled eggs, roasted red pepper and garlic, with green onions 7.50</p><br>
